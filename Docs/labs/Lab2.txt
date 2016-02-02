@@ -1,0 +1,27 @@
+						Lab2
+Team: Central Park
+Student full names:
+1) Taspolat Madina
+2) Sandibekova Aizhana
+3) Tunbay Aidana
+4) Suindikova Zhuldyz
+
+Name of application: Almaty Flowers
+•	Actors of application:
+1)	Clients
+2)	Flower Shops
+•	Use-cases:
+Clients:
+1)	Can search flowers
+2)	Can leave information as how many flowers and what kind of flowers they want, contacts
+3)	Can order flowers 
+4)	Can view proposes of flower shops
+5)	Can make an agreement with flower shop
+       Flower Shops:
+1)	Can search client’s orders
+2)	Can propose their service 
+3)	Can make an agreement with client
+
+
+
+
