@@ -1,3 +1,2 @@
 # software
-repository for software
-it is so funny!
+Lab2.jpg is in issues, because it was not possible to put it into repository.
