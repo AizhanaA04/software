@@ -1,0 +1,15 @@
+Lab 3
+A2_ex1
+“Central Park” Team
+
+   •Main problems:
+
+1)On screen #4  there are user statuses, but there is no description about what does each icon exactly mean.
+2)On screen #4 and #5 after name of user  there is word EN and it is not obvious what does it mean.
+3)On screen #7 there is icon of calendar after field “date”, and there is no description what is its function.
+4)On screen #5 there is button “send” and there is no information about what will happen after pressing that button.
+
+   •Benefits:
+
+1)Making Screenshots is very important because after it, it will be easy to develop project, because everything will be clean about functions of project.
+2)While making this assignment developers can even redeem some problems and it will help to avoid forgetting details.
